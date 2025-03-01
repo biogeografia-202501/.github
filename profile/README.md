@@ -80,7 +80,11 @@ Autónoma de Santo Domingo (UASD)
   biométricos](https://github.com/biogeografia-master/dos-muestras-independientes-biometria).
   Plazo de entrega: en el aula, 11 de febrero, 2025, 7:59 pm.
 
-<!-- - [PA03. Agrupar provincias según su riqueza relativa de especies por géneros de Bromeliaceae](https://github.com/biogeografia-master/agrupamiento-por-riqueza). Plazo de entrega: 3 de septiembre, 2024, 7:59 pm. -->
+- [PA03. Agrupar provincias según su riqueza relativa de especies por
+  géneros de
+  Bromeliaceae](https://github.com/biogeografia-master/agrupamiento-por-riqueza).
+  Plazo de entrega: 4 de marzo, 2024, 7:59 pm.
+
 <!-- - [PA04: Análisis Exploratorio de Datos (AED) y Paradoja de Orlócy](https://github.com/biogeografia-master/aed-transformaciones-orlocy). Plazo de entrega: 11 de septiembre, 2024, 11:59 pm. -->
 <!-- - [PA05: Medio físico, variables ambientales, correlación y regresión](https://github.com/biogeografia-master/medio-fisico-variables-ambientales). Plazo de entrega: 25 de septiembre de 2024, 11:59 pm. -->
 <!-- - [PA06: Distribución de especies, patrones de distribución por simple inspección](https://github.com/biogeografia-master/patrones-distribucion-simple-inspeccion). Plazo de entrega: 8 de octubre de 2024, 7:59 pm. -->
