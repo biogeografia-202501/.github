@@ -120,7 +120,19 @@ interactivo “Introducción a R”</figcaption>
   [Vídeo tutorial “PD01. Hola
   Mundo”](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link).
 
-<!-- - [PD02. Técnicas de ecología numérica, reproducibilidad](https://classroom.github.com/a/nDN0G70c) (acepta la práctica haciendo clic en el vínculo). Plazo de entrega: 15 de octubre, 2024, 11:59 pm. -->
+- [PD02. Técnicas de ecología numérica,
+  reproducibilidad](https://classroom.github.com/a/QkQYjOYK) (acepta la
+  práctica haciendo clic en el vínculo). Plazo de entrega: 16 de marzo,
+  2025, 11:59 pm. Al hacer clic en el vínculo, si tienes tu cuenta de
+  GitHub iniciada y perteneces a la organización `biogeografia-202501`
+  debería aparecerte un mensaje de GitHub Classroom solicitando permisos
+  o preguntando si aceptas la asignación. Si no ves esto, entonces
+  probablemente no perteneces a la organización o no iniciaste en tu
+  cuenta de GitHub (repasa el tutorial de la PD01 si tuvieses problemas
+  al aceptar la práctica). Los vídeos tutoriales sobre cómo realizar
+  esta práctica están indicados en el mandato (README) y en el ejemplo
+  de análisis (archivo legible `ejemplo-de-analisis.html`).
+
 <!-- - [PD03. Introducción a Python](https://classroom.github.com/a/fQT1f7zt) (acepta la práctica haciendo clic en el vínculo). Plazo de entrega: 22 de octubre, 2024, 11:59 pm. -->
 <!-- - [PD04. Modelos de distribución de especies (SDM) por medio de aprendizaje automático (*machine learning*)](https://classroom.github.com/a/XcbRJ9xA) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 12 de noviembre, 2024, 11:59 pm. [Vídeo tutorial](https://drive.google.com/file/d/1W6dckDAzI0Zm0tezKOnTx5oswpA8llQY/view?usp=drive_link). -->
 <!-- - [PD05. Introducción a QGIS, diseño de muestreo espacial estratificado](https://classroom.github.com/a/mkvXeHXY) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 26 de noviembre, 2024, 11:59 pm. [Vídeo tutorial para el ejercicio 5 (pone "Práctica 4" en el vídeo, pero te valdrá igualmente)](https://drive.google.com/file/d/1k6IotOHj6fUkyfi4rSBK6d320TY45KED/view). -->
