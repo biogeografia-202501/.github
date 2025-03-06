@@ -120,7 +120,8 @@ interactivo “Introducción a R”</figcaption>
   [Vídeo tutorial “PD01. Hola
   Mundo”](https://drive.google.com/file/d/1om49HJ7ndANraUPuT5a5gYEZRlELMoXB/view?usp=drive_link).
 
-- [PD02. Técnicas de ecología numérica, reproducibilidad]() (acepta la
+- [PD02. Técnicas de ecología numérica,
+  reproducibilidad](https://classroom.github.com/a/MvOiH8vb) (acepta la
   práctica haciendo clic en el vínculo). Plazo de entrega: 16 de marzo,
   2025, 11:59 pm. Al hacer clic en el vínculo, si tienes tu cuenta de
   GitHub iniciada y perteneces a la organización `biogeografia-202501`
