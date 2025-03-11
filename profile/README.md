@@ -85,7 +85,10 @@ Autónoma de Santo Domingo (UASD)
   Bromeliaceae](https://github.com/biogeografia-master/agrupamiento-por-riqueza).
   Plazo de entrega: 4 de marzo, 2024, 7:59 pm.
 
-<!-- - [PA04: Análisis Exploratorio de Datos (AED) y Paradoja de Orlócy](https://github.com/biogeografia-master/aed-transformaciones-orlocy). Plazo de entrega: 11 de septiembre, 2024, 11:59 pm. -->
+- [PA04: Análisis Exploratorio de Datos (AED) y Paradoja de
+  Orlócy](https://github.com/biogeografia-master/aed-transformaciones-orlocy).
+  Plazo de entrega: 11 de marzo, 2025, 11:59 pm.
+
 <!-- - [PA05: Medio físico, variables ambientales, correlación y regresión](https://github.com/biogeografia-master/medio-fisico-variables-ambientales). Plazo de entrega: 25 de septiembre de 2024, 11:59 pm. -->
 <!-- - [PA06: Distribución de especies, patrones de distribución por simple inspección](https://github.com/biogeografia-master/patrones-distribucion-simple-inspeccion). Plazo de entrega: 8 de octubre de 2024, 7:59 pm. -->
 <!-- - [PA07: Distribución de especies en la bibliografía](https://github.com/biogeografia-master/distribucion-de-especies-en-bibliografia). Plazo de entrega: 15 de octubre de 2024, 7:59 pm. -->
