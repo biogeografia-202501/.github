@@ -93,7 +93,10 @@ Autónoma de Santo Domingo (UASD)
   regresión](https://github.com/biogeografia-master/medio-fisico-variables-ambientales).
   Plazo de entrega: 7 de abril de 2025, 11:59 pm.
 
-<!-- - [PA06: Distribución de especies, patrones de distribución por simple inspección](https://github.com/biogeografia-master/patrones-distribucion-simple-inspeccion). Plazo de entrega: 8 de octubre de 2024, 7:59 pm. -->
+- [PA06: Distribución de especies, patrones de distribución por simple
+  inspección](https://github.com/biogeografia-master/patrones-distribucion-simple-inspeccion).
+  Plazo de entrega: 28 de octubre de 2025, 11:59 pm.
+
 <!-- - [PA07: Distribución de especies en la bibliografía](https://github.com/biogeografia-master/distribucion-de-especies-en-bibliografia). Plazo de entrega: 15 de octubre de 2024, 7:59 pm. -->
 <!-- - [PA08: Distribución de comunidades en la bibliografía](https://github.com/biogeografia-master/distribucion-de-comunidades-en-bibliografia). Plazo de entrega: 29 de octubre de 2024, 7:59 pm. -->
 <!-- - [PA09: Teoría de la biogeografía insular en la bibliografía, herramientas precursoras de la TBI](https://github.com/biogeografia-master/biogeografia-insular-en-bibliografia). Plazo de entrega: 18 de noviembre de 2024, 23:59 pm. -->
@@ -139,7 +142,10 @@ interactivo “Introducción a R”</figcaption>
   esta práctica están indicados en el mandato (README) y en el ejemplo
   de análisis (archivo legible `ejemplo-de-analisis.html`).
 
-<!-- - [PD03. Introducción a Python](https://classroom.github.com/a/fQT1f7zt) (acepta la práctica haciendo clic en el vínculo). Plazo de entrega: 22 de octubre, 2024, 11:59 pm. -->
+- [PD03. Introducción a Python](https://classroom.github.com/a/lT282gkM)
+  (acepta la práctica haciendo clic en el vínculo). Plazo de entrega: 28
+  de abril, 2025, 11:59 pm.
+
 <!-- - [PD04. Modelos de distribución de especies (SDM) por medio de aprendizaje automático (*machine learning*)](https://classroom.github.com/a/XcbRJ9xA) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 12 de noviembre, 2024, 11:59 pm. [Vídeo tutorial](https://drive.google.com/file/d/1W6dckDAzI0Zm0tezKOnTx5oswpA8llQY/view?usp=drive_link). -->
 <!-- - [PD05. Introducción a QGIS, diseño de muestreo espacial estratificado](https://classroom.github.com/a/mkvXeHXY) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 26 de noviembre, 2024, 11:59 pm. [Vídeo tutorial para el ejercicio 5 (pone "Práctica 4" en el vídeo, pero te valdrá igualmente)](https://drive.google.com/file/d/1k6IotOHj6fUkyfi4rSBK6d320TY45KED/view). -->
 
