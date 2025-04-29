@@ -66,7 +66,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - [PD03. Introducción a Python](https://classroom.github.com/a/lT282gkM) (acepta la práctica haciendo clic en el vínculo). Plazo de entrega: 28 de abril, 2025, 11:59 pm.
 
-<!-- - [PD04. Modelos de distribución de especies (SDM) por medio de aprendizaje automático (*machine learning*)](https://classroom.github.com/a/XcbRJ9xA) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 12 de noviembre, 2024, 11:59 pm. [Vídeo tutorial](https://drive.google.com/file/d/1W6dckDAzI0Zm0tezKOnTx5oswpA8llQY/view?usp=drive_link). -->
+- [PD04. Modelos de distribución de especies (SDM) por medio de aprendizaje automático (*machine learning*)](https://classroom.github.com/a/EfiUCWhM) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 12 de mayo, 2025, 11:59 pm. [Vídeo tutorial](https://drive.google.com/file/d/1W6dckDAzI0Zm0tezKOnTx5oswpA8llQY/view?usp=drive_link).
 
 <!-- - [PD05. Introducción a QGIS, diseño de muestreo espacial estratificado](https://classroom.github.com/a/mkvXeHXY) (acepta la práctica haciendo clic en el enlace). Plazo de entrega: 26 de noviembre, 2024, 11:59 pm. [Vídeo tutorial para el ejercicio 5 (pone "Práctica 4" en el vídeo, pero te valdrá igualmente)](https://drive.google.com/file/d/1k6IotOHj6fUkyfi4rSBK6d320TY45KED/view). -->
   
